@@ -23,7 +23,7 @@ An interactive AI-powered story generator that creates compelling narratives wit
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/ai-story-generator-transformers-diffusers.git
+git clone https://github.com/skkuhg/AI-Story-Generator-Transformers-Diffusers.git
 cd ai-story-generator-transformers-diffusers
 ```
 
